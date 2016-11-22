@@ -1,0 +1,92 @@
+//Main form
+//LinkedList<Shape> _llGameFloor = new LinkedList<Shape>();   //Contains all shapes in game //that have stopped falling.
+//_llGameFloor.Clear();                   //reset game floor
+//_CurrentShape.Drop(_llGameFloor);
+//_CurrentShape.ShiftLeft(_llGameFloor);
+//_CurrentShape.ShiftRight(_llGameFloor);
+//_llGameFloor.ToList().ForEach(s => s.ShowShape());     
+//Shape class
+//Function name: Drop
+        //Description:
+        //Return type: void
+        //Argument: LinkedList<Shape> currentFloor - collection of all the shapes
+        //          that have stopped falling.
+        //public void Drop(LinkedList<Shape> llCurrentFloor)
+        //{
+        //    if (!this._bFalling) return;            //is the shape not falling? Get outta there!
+        //    if (!this._lBlocks.All(Block.CanFall))  //At least one of the shape's blocks can't fall.
+        //    {
+        //        this._bFalling = false;             //change property to indicate shape is stationary
+        //        llCurrentFloor.AddLast(this);       //add the stationary shape to the end of the 
+        //                                            //currentFloor LinkedList.
+        //        return;
+        //    }
+
+        //    //Before proceeding, make a backup of the shape's previous location.
+        //    Point backupLocation = new Point(_pCoreLocation.X, _pCoreLocation.Y);
+
+        //    this._pCoreLocation = new Point(this._pCoreLocation.X,  //update the shape's location to drop it.
+        //                                this._pCoreLocation.Y + 1);
+        //    List<Shape> overlaps = new List<Shape>();               //make a new list for overlapped shapes
+        //    overlaps.Add(this);                                     //add the falling shape to the list
+        //    overlaps = overlaps.Intersect(llCurrentFloor).ToList();   //now set the list to contain all (if any)
+        //                                                            //shapes that overlap with the falling shape.
+
+        //    if (overlaps.Count != 0) //any overlaps will make the list count > 0
+        //    {
+        //        this._pCoreLocation = backupLocation;   //undo the fall
+        //        this._bFalling = false;                 //change property to reflect a stationary shape.
+        //        llCurrentFloor.AddLast(this);       //add the stationary shape to the end of the 
+        //                                            //currentFloor LinkedList.
+        //        return;
+        //    }
+        //    return; //if no overlaps, list count = 0 i.e. okay to keep falling
+        //}
+
+//public void ShiftLeft(LinkedList<Shape> llCurrentFloor)
+        //{
+        //    if (!this._bFalling) return;                //is the shape not falling? Get outta there!
+        //    if (!this._lBlocks.All(Block.CanShiftLeft)) //At least one of the shape's blocks can't shift left.
+        //        return;
+
+        //    //Before proceeding, make a backup of the shape's previous location.
+        //    Point backupLocation = new Point(_pCoreLocation.X, _pCoreLocation.Y);
+
+        //    this._pCoreLocation = new Point(this._pCoreLocation.X - 1,  //update the shape's location to shift it.
+        //                                this._pCoreLocation.Y);
+        //    List<Shape> overlaps = new List<Shape>();                   //make a new list for overlapped shapes
+        //    overlaps.Add(this);                                         //add the falling shape to the list
+        //    overlaps = overlaps.Intersect(llCurrentFloor).ToList();     //now set the list to contain all (if any)
+        //                                                                //shapes that overlap with the falling shape.
+
+        //    if (overlaps.Count != 0)                    //any overlaps will make the list count > 0
+        //    {
+        //        this._pCoreLocation = backupLocation;   //undo the shift
+        //        return;
+        //    }
+        //    return; //if no overlaps, list count == 0 i.e. okay to keep shifting left
+        //}
+
+//public void ShiftRight(LinkedList<Shape> llCurrentFloor)
+        //{
+        //    if (!this._bFalling) return;                    //is the shape not falling? Get outta there!
+        //    if (!this._lBlocks.All(Block.CanShiftRight))    //At least one of the shape's blocks can't shift right.
+        //        return;
+
+        //    //Before proceeding, make a backup of the shape's previous location.
+        //    Point backupLocation = new Point(_pCoreLocation.X, _pCoreLocation.Y);
+
+        //    this._pCoreLocation = new Point(this._pCoreLocation.X + 1,  //update the shape's location to shift it.
+        //                                this._pCoreLocation.Y);
+        //    List<Shape> overlaps = new List<Shape>();                   //make a new list for overlapped shapes
+        //    overlaps.Add(this);                                         //add the falling shape to the list
+        //    overlaps = overlaps.Intersect(llCurrentFloor).ToList();     //now set the list to contain all (if any)
+        //                                                                //shapes that overlap with the falling shape.
+
+        //    if (overlaps.Count != 0)                    //any overlaps will make the list count > 0
+        //    {
+        //        this._pCoreLocation = backupLocation;   //undo the shift
+        //        return;
+        //    }
+        //    return; //if no overlaps, list count = 0 i.e. okay to keep shifting right
+        //}

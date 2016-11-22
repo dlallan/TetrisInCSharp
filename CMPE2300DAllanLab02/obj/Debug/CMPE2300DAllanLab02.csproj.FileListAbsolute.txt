@@ -1,0 +1,20 @@
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.exe.config
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.exe
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.pdb
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\GDIDrawer.dll
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.csprojResolveAssemblyReference.cache
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.Form1.resources
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.Properties.Resources.resources
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.csproj.GenerateResource.Cache
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.exe
+F:\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.pdb
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.exe.config
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.exe
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.pdb
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.exe
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\CMPE2300DAllanLab02.pdb
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\bin\Debug\GDIDrawer.dll
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.csprojResolveAssemblyReference.cache
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.Form1.resources
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.Properties.Resources.resources
+C:\Users\dillo\OneDrive\Documents\NAIT\Winter 2016\CMPE2300\Labs\CMPE2300DAllanLab02\CMPE2300DAllanLab02\obj\Debug\CMPE2300DAllanLab02.csproj.GenerateResource.Cache
